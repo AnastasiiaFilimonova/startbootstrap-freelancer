@@ -10874,3 +10874,7 @@ form .row:first-child .floating-label-form-group {
 .copyright {
   background-color: #004d00;
 }
+
+#cats img {
+  max-width: 100%;
+}
